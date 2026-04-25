@@ -31,5 +31,5 @@ docker run -p 3000:3000 tp2-node-docker
 
 ## Liens de remise
 
-- GitHub : https://github.com/simonhetu/tp2-node-docker
+- GitHub : https://github.com/SimonHetu/tp-2-pemd-docker-node
 - Docker Hub : https://hub.docker.com/r/simonhetu/tp2-node-docker
